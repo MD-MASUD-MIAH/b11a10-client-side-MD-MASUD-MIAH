@@ -34,3 +34,28 @@ PlantWarden is a modern, user-friendly web application designed to help plant en
 [ https://github.com/MD-MASUD-MIAH/b11a10-server-side-MD-MASUD-MIAH ]
 
 
+
+
+
+
+
+⚙️ Prerequisites Make sure you have installed:
+
+Node.js (v18 or later)
+
+npm or yarn
+
+MongoDB (local or cloud like MongoDB Atlas)
+
+🔐 Environment Variables
+
+VITE_FIREBASE_API_KEY=...
+
+VITE_FIREBASE_AUTH_DOMAIN=...
+
+VITE_FIREBASE_PROJECT_ID=...
+
+VITE_FIREBASE_STORAGE_BUCKET=...
+
+VITE_FIREBASE_APP_ID=...
+
